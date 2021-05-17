@@ -4,6 +4,7 @@
 The purpose of the election analysis audit was to help Seth and Tom to find additional information requested by the election commission by analyzing the given data set. We have been given a starter code to find the candidates, the total vote count, each candidate's vote count, and the winner of the election. However, the election commission wanted additional analysis on the counties and requested us to find the voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout. In addition to that, we were also requested to save our results on the **election_analysis.txt** file. 
 
 ## Election Audit Results
+<br />
 ![Election results](/resources/Election_analysis_results.png)
 The results of the election is shown in the picture above. The total votes for this particular election is 369,711 votes and our analysis showed that the county with the highest turnout, with 82.8% of the total votes, came from Denver (306,055 votes), and following Denver is Jefferson with 10.5% of the total votes (38,855 votes), and last is Arapahoe with 6.7% of the total votes (24,801 votes). Our analysis also found that the winner of the election is Diana DeGette, whom recieved 73.8% of the total vote (272,892 votes). The two other candidates: Charles Casper Stockham and Raymon Anthony Doane recieved 23.0% (85,213 votes) of the total votes and 3.1% (11,606 votes) of the total votes respectively. 
 
