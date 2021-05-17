@@ -5,4 +5,4 @@ The purpose of the election analysis audit was to help Seth and Tom to find addi
 
 ## Election Audit Results
 The results of the election is shown below
-![alt text](https://github.com/lucasanuge/election-analysis/resources/main/Election_analysis_results.jpg?raw=true)
+![alt text](https://github.com/lucasanuge/election-analysis/resources/main/Election_analysis_results.png?raw=true)
